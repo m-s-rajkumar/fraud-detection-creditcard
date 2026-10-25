@@ -1,0 +1,7 @@
+.venv/
+__pycache__/
+.ipynb_checkpoints/
+.DS_Store
+data/*
+!data/README.md
+dashboard/data/scored_transactions.csv
